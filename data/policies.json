@@ -1,0 +1,17 @@
+[
+  {
+    "policy_id": "pol_001",
+    "title": "Large Transaction Policy",
+    "text": "Transactions over $10,000 must be reviewed for AML compliance."
+  },
+  {
+    "policy_id": "pol_002",
+    "title": "Frequent Transactions Policy",
+    "text": "More than five transactions in a 24‑hour period from the same customer require additional scrutiny."
+  },
+  {
+    "policy_id": "pol_003",
+    "title": "New Beneficiary Policy",
+    "text": "If a beneficiary has not been used before by the customer, the transaction should be flagged for review."
+  }
+]

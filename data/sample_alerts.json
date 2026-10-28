@@ -1,0 +1,21 @@
+[
+  {
+    "alert_id": "alert_001",
+    "transaction": {
+      "transaction_id": "tx_1001",
+      "customer_id": "cust_01",
+      "amount": 12000,
+      "currency": "USD",
+      "timestamp": "2026-10-27T12:34:56Z",
+      "beneficiary": "Beneficiary A"
+    },
+    "historical_transactions": [
+      {"transaction_id": "tx_0901", "customer_id": "cust_01", "amount": 200, "timestamp": "2026-09-20T10:00:00Z", "beneficiary": "Beneficiary X"},
+      {"transaction_id": "tx_0902", "customer_id": "cust_01", "amount": 250, "timestamp": "2026-09-21T11:15:00Z", "beneficiary": "Beneficiary X"},
+      {"transaction_id": "tx_0903", "customer_id": "cust_01", "amount": 300, "timestamp": "2026-09-22T09:45:00Z", "beneficiary": "Beneficiary X"},
+      {"transaction_id": "tx_0904", "customer_id": "cust_01", "amount": 220, "timestamp": "2026-09-23T14:20:00Z", "beneficiary": "Beneficiary X"},
+      {"transaction_id": "tx_0905", "customer_id": "cust_01", "amount": 210, "timestamp": "2026-09-24T16:30:00Z", "beneficiary": "Beneficiary X"},
+      {"transaction_id": "tx_0906", "customer_id": "cust_01", "amount": 230, "timestamp": "2026-10-27T10:00:00Z", "beneficiary": "Beneficiary X"}
+    ]
+  }
+]
